@@ -1,6 +1,0 @@
-mkdir lab_bash
-cd lab_bash
-touch edit1.txt
-ls -l > edit2.txt
-cat edit1.txt
-cat edit2.txt
