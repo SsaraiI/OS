@@ -1,3 +1,0 @@
-total 0
--rw-r--r-- 1 sarai sarai 0 Oct  9 21:52 edit1.txt
--rw-r--r-- 1 sarai sarai 0 Oct  9 21:52 edit2.txt
